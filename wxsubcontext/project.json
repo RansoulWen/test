@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "WeChatOpenDataContext",
+  "uuid": "4b08b771-0ef3-47cc-8e54-eed1f6874203",
+  "version": "2.4.4",
+  "id": "97ab3d85-0554-46dc-a9eb-217040c79b4b",
+  "isNew": false
+}
